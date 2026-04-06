@@ -42,8 +42,8 @@ body {
 
 .gameover {
     color: black;
-    font-size: 40px;
-    height: 180px;
+    font-size: 50px;
+    height: 250px;
     top: 200px;
     font-family: sans-serif;
 }
